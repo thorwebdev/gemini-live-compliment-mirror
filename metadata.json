@@ -1,0 +1,8 @@
+{
+  "name": "Magic Compliment Mirror",
+  "description": "A magical mirror that uses Gemini Live API to see you and give you real-time, personalized compliments about your look.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
